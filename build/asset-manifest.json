@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5447a1df.css",
+    "main.js": "/static/js/main.950aa0f1.js",
+    "static/media/DSCF0032.png": "/static/media/DSCF0032.b48bdbc06818f81b33c1.png",
+    "static/media/bg2.jpg": "/static/media/bg2.ef6ca745d3890ffaddf2.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.bc010417d7e4fff6941a.jpg",
+    "static/media/reception.png": "/static/media/reception.7f8a8479d86452f6a75e.png",
+    "static/media/ceremony.png": "/static/media/ceremony.7c1238252fa35f0696ce.png",
+    "static/media/loader.gif": "/static/media/loader.50a99c7b71216b1132f4.gif",
+    "static/media/separator.svg": "/static/media/separator.f919a7e74bc9b8c0b415c5f59e2f5739.svg",
+    "static/media/hover-sound.mp3": "/static/media/hover-sound.7f139b396a1194e8727a.mp3",
+    "static/media/instagram-active.svg": "/static/media/instagram-active.20530eb86559d977c514.svg",
+    "static/media/instagram.svg": "/static/media/instagram.cf0493249a624db82c92.svg",
+    "index.html": "/index.html",
+    "static/media/twitter-active.svg": "/static/media/twitter-active.8f2df9d5036c91da08bf.svg",
+    "static/media/twitter.svg": "/static/media/twitter.8648323205a54085f83d.svg",
+    "static/media/reception.svg": "/static/media/reception.ae8d33ad532a71a39ed6a5131c12b6fa.svg",
+    "static/media/separator-pink.svg": "/static/media/separator-pink.60ffac99874e4143e981ca6621282f78.svg",
+    "static/media/ceremony.svg": "/static/media/ceremony.a09bce8a0ab4766a193d30fbebd4c24c.svg",
+    "static/media/facebook-active.svg": "/static/media/facebook-active.c130417c15708bf6415b.svg",
+    "static/media/facebook.svg": "/static/media/facebook.d2e2c4cb613b1ec9d59f.svg",
+    "static/media/navbar-toggler.svg": "/static/media/navbar-toggler.afdda034d24c10d2ab0b.svg",
+    "static/media/line.svg": "/static/media/line.fb9fc46af8972f3924f64a48894b74b9.svg",
+    "main.5447a1df.css.map": "/static/css/main.5447a1df.css.map",
+    "main.950aa0f1.js.map": "/static/js/main.950aa0f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5447a1df.css",
+    "static/js/main.950aa0f1.js"
+  ]
+}

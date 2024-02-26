@@ -1,5 +1,4 @@
 import React from 'react';
-import svg from "../assets/images/icons/separator-pink.svg";
 
 const separator = require('../assets/images/icons/separator-pink.svg');
 

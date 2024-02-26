@@ -1,20 +1,14 @@
-// UserDisplay.js
-
 import React, { useEffect } from 'react';
 
 const UserDisplay = () => {
     useEffect(() => {
         const urlParams = new URLSearchParams(window.location.search);
-        const encodedUsername = urlParams.get('username');
-        const decodedUsername = encodedUsername ? decodeURIComponent(encodedUsername) : null;
+        const username = urlParams.get('username');
         const usernameTypewriter = document.getElementById('username-typewriter');
 
-        if (decodedUsername) {
-            // Split the username into two words
-            const [firstName, lastName] = decodedUsername.split(' ');
-
-            // Display the two words
-            usernameTypewriter.textContent = `${firstName} ${lastName}`;
+        if (username) {
+            const decodedUsername = decodeURIComponent(username.replace(/\+/g, ' '));
+            usernameTypewriter.textContent = decodedUsername;
         } else {
             usernameTypewriter.textContent = 'We invite you to celebrate our wedding';
         }
